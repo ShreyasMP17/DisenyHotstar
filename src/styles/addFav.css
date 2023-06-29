@@ -1,0 +1,58 @@
+.addFavourites{
+background-image: url('13.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    }
+    .addFavourites h1{
+        margin-top: 0px;
+        color:rgb(255, 255, 255);
+        text-align: center;
+        padding-top: 100px;
+        font-size: 60px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+        
+        
+    }
+    .form_inputs{
+        background-color: rgb(25, 25, 73);
+        width: 300px;
+        height: 300px;
+        align-items: center;
+        /* margin-left: 800px;
+        margin-top: 50px; */
+        padding-left: 30px;
+        padding-top: 40px;
+        border-radius: 50px;
+    }
+    
+    .form{
+        display: flex;
+        justify-content: center;
+        
+    }
+    
+    .form_inputs input{
+        border: none;
+        height:30px ;
+        width:250px ;
+        margin: 10px;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .form_inputs button{
+        margin-left: 70px;
+        border: none;
+        background-color: rgb(232, 81, 81);
+        color: aliceblue;
+        padding: 8px;
+        border-radius: 10px;
+        margin-top: 20px;
+        
+    }
+    .form_image{
+        padding-bottom: 250px;
+    }

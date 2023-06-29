@@ -1,0 +1,74 @@
+{
+  "favourites": [
+    {
+      "title": "The Boys",
+      "genre": "action",
+      "language": "english",
+      "rating": 4.6,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "genre": "mystery",
+      "language": "german",
+      "rating": 4.7,
+      "id": 2
+    },
+    {
+      "title": "The Office",
+      "genre": "sitcon",
+      "language": "english",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "title": "The Family man",
+      "genre": "thriller",
+      "language": "hindi",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "title": "Malgudi Days",
+      "genre": "philosophy",
+      "language": "hindi",
+      "rating": 4.5,
+      "id": 5
+    },
+    {
+      "title": "Kranti",
+      "genre": "action",
+      "language": "kannada",
+      "rating": "9.8",
+      "id": 6
+    },
+    {
+      "title": "Robert",
+      "genre": "mystery",
+      "language": "kannada",
+      "rating": "7.0",
+      "id": 7
+    },
+    {
+      "title": "Robert",
+      "genre": "mystery",
+      "language": "kannada",
+      "rating": "7.0",
+      "id": 8
+    },
+    {
+      "title": "Astrix",
+      "genre": "thriller",
+      "language": "English",
+      "rating": "7",
+      "id": 9
+    },
+    {
+      "title": "Astrix",
+      "genre": "thriller",
+      "language": "English",
+      "rating": "7",
+      "id": 10
+    }
+  ]
+}

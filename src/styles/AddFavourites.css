@@ -1,0 +1,58 @@
+.addFavourites{
+
+background-color: rgb(62 157 164);
+
+background-position: center;
+background-size: cover;
+
+}
+.addFavourites h1{
+    margin-top: 0px;
+    color: rgb(40, 40, 83);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    
+}
+.form_inputs{
+    background-color: rgb(62 157 164);
+    width: 320px;
+    padding-top: 110px;
+    padding-left:120px;
+    padding-right: 30px;
+margin-bottom: 254px;
+}
+.form_inputs input{
+    border: none;
+    height:30px ;
+    width:250px ;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.form_inputs button{
+    margin-left: 30px;
+    border: none;
+    background-color: rgb(241, 43, 43);
+    color:bisque;
+    padding: 8px;
+    border-radius: 10px;
+    margin-top: 30px;
+    
+}
+.form_image{
+    padding-bottom: 250px;
+}
+.form_inputs button:hover{
+    background-color: rgb(40, 40, 83);
+    
+}
+.form_inputs input:hover{
+    background-color: rgb(40, 40, 83);
+    color: aliceblue;
+}

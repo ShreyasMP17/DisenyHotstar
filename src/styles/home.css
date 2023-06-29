@@ -1,0 +1,37 @@
+.home{
+    background-color: rgb(40, 40, 83);
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+
+}
+.description p{
+    color: white;
+}
+.description button{
+background-color:transparent ;
+color: rgb(4, 238, 225);
+border: 1px solid rgb(4, 238, 255);
+border-radius: 5px;
+padding: 8px 20px;
+}
+.movies_list{
+padding: 30px ;
+}
+.movies_list h1{ 
+color: white;
+}
+.movies_list img{
+    height: 350px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 0px 15px;
+    transition: 0.5s;
+}
+.movies_list img:hover{
+    transform: translateY(-30px);
+}

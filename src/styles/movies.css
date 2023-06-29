@@ -1,0 +1,27 @@
+.movies{
+    background-color: rgb(40, 40, 83);
+    
+}
+.movies h1{
+    margin-top: 0;  /*its used to remove space b/w two component*/
+    color: white;
+    margin-left: 30px;
+    
+}
+.favs{
+    text-align: center;
+}
+.fav_lists{
+    color: white;
+    background-color: rgb(25, 25, 73);
+    width: 75%;
+    margin-left: 200px;
+    padding: 10px;
+    margin: 20px 0px 0px 200px;
+}
+.fav_lists button:hover{
+background-color:rgb(25, 25, 73) ;
+color: white;
+border: 1px solid white;
+border-radius: 3px;
+}
